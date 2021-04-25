@@ -32,6 +32,5 @@ class solution
         for (String word : Arrays.asList("AZBA","ervervige", "aaabab", "x","anntya", "civigfc","kayathyk", "lerfsdvel","bgtremadam","moqwertym","nolkjhgfdon")) {
             System.out.println(solution(word));
         }
-//        System.out.println(solution("anntya"));
     }
 }
